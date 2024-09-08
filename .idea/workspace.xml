@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c94fcda9-1913-4411-abbc-6cd5bb631c5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/impl/AppointmentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/impl/DoctorRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/impl/OfficeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/impl/PatientRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/model/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/model/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/model/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/model/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/repository/AppointmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/repository/DoctorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/repository/OfficeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/repository/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/service/AppointmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/service/DoctorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/service/OfficeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/healthcare/service/PatientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/healthcare/service/AppointmentServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/healthcare/service/DoctorServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/healthcare/service/OfficeServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/healthcare/service/PatientServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/hibernate-test.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lf8ucek96y39uwEf3PKzAkkKHL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DoctorServiceTest.executor": "Run",
+    "JUnit.OfficeServiceTest.executor": "Coverage",
+    "JUnit.OfficeServiceTest.testCreateOffice.executor": "Run",
+    "JUnit.OfficeServiceTest.testDeleteOffice.executor": "Profiler#1",
+    "JUnit.OfficeServiceTest.testGetOfficeById.executor": "Coverage",
+    "JUnit.OfficeServiceTest.testInvalidInput.executor": "Run",
+    "JUnit.OfficeServiceTest.testUpdateOffice.executor": "Run",
+    "JUnit.OfficeServiceTest.testValidOfficeNames.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/sidra/JavaProjects/healthcareJunit/src/main/java/healthcare/service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="healthcare.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OfficeServiceTest">
+    <configuration name="OfficeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="healthcareJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="healthcare.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="healthcare.service" />
+      <option name="MAIN_CLASS_NAME" value="healthcare.service.OfficeServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfficeServiceTest.testGetOfficeById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="healthcareJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="healthcare.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="healthcare.service" />
+      <option name="MAIN_CLASS_NAME" value="healthcare.service.OfficeServiceTest" />
+      <option name="METHOD_NAME" value="testGetOfficeById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfficeServiceTest.testInvalidInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="healthcareJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="healthcare.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="healthcare.service" />
+      <option name="MAIN_CLASS_NAME" value="healthcare.service.OfficeServiceTest" />
+      <option name="METHOD_NAME" value="testInvalidInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfficeServiceTest.testUpdateOffice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="healthcareJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="healthcare.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="healthcare.service" />
+      <option name="MAIN_CLASS_NAME" value="healthcare.service.OfficeServiceTest" />
+      <option name="METHOD_NAME" value="testUpdateOffice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfficeServiceTest.testValidOfficeNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="healthcareJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="healthcare.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="healthcare.service" />
+      <option name="MAIN_CLASS_NAME" value="healthcare.service.OfficeServiceTest" />
+      <option name="METHOD_NAME" value="testValidOfficeNames(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OfficeServiceTest" />
+        <item itemvalue="JUnit.OfficeServiceTest.testInvalidInput" />
+        <item itemvalue="JUnit.OfficeServiceTest.testValidOfficeNames" />
+        <item itemvalue="JUnit.OfficeServiceTest.testUpdateOffice" />
+        <item itemvalue="JUnit.OfficeServiceTest.testGetOfficeById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94fcda9-1913-4411-abbc-6cd5bb631c5b" name="Changes" comment="" />
+      <created>1725559996733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725559996733</updated>
+      <workItem from="1725559997876" duration="4643000" />
+      <workItem from="1725564831254" duration="17507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/healthcareJunit$OfficeServiceTest.ic" NAME="OfficeServiceTest Coverage Results" MODIFIED="1725820654628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>healthcare.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/healthcareJunit$OfficeServiceTest_testGetOfficeById.ic" NAME="OfficeServiceTest.testGetOfficeById Coverage Results" MODIFIED="1725820346103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>healthcare.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
